@@ -1,7 +1,7 @@
 # Digit_recognition
 ## 📝 Handwritten Digit Recognition using Deep Learning
 
-This project implements a deep learning model for recognizing handwritten digits using the MNIST dataset. The model is built using TensorFlow/Keras and trained on the MNIST dataset to classify digits from 0 to 9.
+This project implements a deep learning model for recognizing handwritten digits using the MNIST dataset. The model is built using TensorFlow/Keras and trained on the MNIST dataset to classify digits from 0 to 9..
 
 ## 🚀 Features
 
@@ -9,11 +9,11 @@ This project implements a deep learning model for recognizing handwritten digits
 
 ## 📂 Dataset
 
-The project uses the MNIST dataset, a collection of 28x28 grayscale images of handwritten digits.
+The project uses the MNIST dataset, a collection of 28x28 grayscale images of handwritten digits..
 
 ## 🏗 Model Architecture
 
-The CNN model consists of:
+###The CNN model consists of:
 
 🏞 Convolutional layers for feature extraction
 
