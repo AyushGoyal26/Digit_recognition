@@ -13,7 +13,7 @@ The project uses the MNIST dataset, a collection of 28x28 grayscale images of ha
 
 ## 🏗 Model Architecture
 
-###The CNN model consists of:
+##The CNN model consists of:
 
 🏞 Convolutional layers for feature extraction
 
